@@ -18,4 +18,4 @@ The properties you need to add are:
 - Do the elements that contain the text "This should be unstyled" have no styles applied?
 
 
-Why won't this commit show up?
+something wrong with GH commits?
