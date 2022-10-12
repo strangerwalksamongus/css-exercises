@@ -5,6 +5,10 @@
 
 .container {
   text-align: center;
+
+  display: grid;
+  gap: 4px;
+  grid-template-rows: ;
 }
 
 .container div {
